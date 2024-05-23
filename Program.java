@@ -108,7 +108,7 @@ public class Program {
                 var scAmount = sc.next().replace(",", ".");
                 amount = Float.parseFloat(scAmount);
                 resultAmount = service.getConversion(from,to,amount);
-                System.out.printf("El resultado es : %.2f%n", resultAmount);
+                System.out.printf("El resultado es : %.2f%n \s", resultAmount);
 
             }
             catch (Exception ex)
