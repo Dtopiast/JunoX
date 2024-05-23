@@ -7,6 +7,4 @@ public enum Currencies {
     ColombianPeso,
     RealBresileño,
     Euro,
-    swiFranco
-
 }
