@@ -1,7 +1,3 @@
-¡Por supuesto! Aquí tienes un README.md elegante y bien estructurado para tu aplicación de consola en Java 20 llamada JunoX, un conversor de monedas:
-
----
-
 # JunoX - Conversor de Monedas
 
 ![JunoX Logo](junoX_logo.png)
@@ -95,7 +91,3 @@ El resultado es : 5659.69
 ## Licencia
 
 Este proyecto está bajo la Licencia apache. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
-¡Asegúrate de personalizar este README con la información específica de tu aplicación y tu repositorio!
